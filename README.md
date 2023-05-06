@@ -1,1 +1,1 @@
-This is mu first repository for a new open source project
+This is my first repository for a new open source project
